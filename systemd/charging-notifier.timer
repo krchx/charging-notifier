@@ -1,0 +1,10 @@
+[Unit]
+Description=charging Notifier Timer
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=5min
+Unit=charging-notifier.service
+
+[Install]
+WantedBy=timers.target

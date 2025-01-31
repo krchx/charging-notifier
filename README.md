@@ -60,10 +60,6 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 This project is licensed under the MIT License.
 
-### Contact
-
-For any questions or support, please contact [yourname@yourdomain.com].
-
 ---
 
 This README provides a comprehensive overview of the Charging Notifier project, highlighting its features, installation steps, usage, and other relevant information.
